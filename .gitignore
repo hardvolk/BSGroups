@@ -6,6 +6,13 @@
 /tmp
 /out-tsc
 
+# nativescript output
+/hooks
+/platforms
+
+# project credential exclusion
+compa_app_release.keystore
+
 # dependencies
 /node_modules
 
