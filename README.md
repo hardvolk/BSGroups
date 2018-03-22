@@ -21,3 +21,12 @@ Run the following command:
 ### Follow the Nativescript Advance Setup
 The jdk and Android SDK are installed using chocolatey as suggested here: 
 https://docs.nativescript.org/start/ns-setup-win
+
+### Install nativescript CLI
+```
+npm i -g nativescript
+```
+Checkout status:
+```
+tns doctor
+```
